@@ -1,4 +1,7 @@
 # 💫 About Me:
+
+🏓 I like to try new hobbies<br>
+⚙️ I like to explore internet and technology<br>
 🔭 I’m currently internship on PT. Samudera Biru Digital<br>
 
 
