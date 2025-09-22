@@ -1,5 +1,3 @@
-# Hi there, I'm Kotechi! 👋
-
 ![Header](./public/background-github-profile.png)
 
 ## 🚀 About Me
@@ -71,15 +69,14 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center" display="flex">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kotechi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=kotechi&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kotechi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kotechi&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kotechi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=kotechi&theme=dark&hide_border=false"/>
+</div></div>
 
 ---
 
@@ -98,5 +95,3 @@
 </div>
 
 ---
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
