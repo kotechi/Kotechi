@@ -4,7 +4,7 @@
 
 🏓 **Hobby Explorer** - Always excited to try new things and learn new skills  
 ⚙️ **Tech Enthusiast** - Passionate about exploring the latest in internet and technology
-🔭 **Currently** - Doing an internship at PT. Samudera Biru Digital  
+🔭 **Currently** - Doing an internship at PT. Samudera Biru Digital 
 💡 **Focus** - Building web applications and exploring full-stack development  
 
 ---
