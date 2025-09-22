@@ -1,4 +1,5 @@
-# 💫 About Me:
+
+![Header](./public/background-github-profile.png)
 
 🏓 I like to try new hobbies<br>
 ⚙️ I like to explore internet and technology<br>
