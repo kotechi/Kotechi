@@ -1,6 +1,6 @@
 ![Header](./public/background-github-profile.png)
 
-##<div align="center">About Me 😎</div>
+##About Me 😎
 
 
 <div align="center">
