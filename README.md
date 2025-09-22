@@ -1,14 +1,23 @@
 ![Header](./public/background-github-profile.png)
 
-## 🚀 About Me
+<div align="center">
+## About Me 😎👌
+</div>
+
 
 <div align="center">
 🏓 **Hobby Explorer** - Always excited to try new things and learn new skills  
-⚙️ **Tech Enthusiast** - Passionate about exploring the latest in internet and technology  
+</div>
+
+<div align="center">
+⚙️ **Tech Enthusiast** - Passionate about exploring the latest in internet and technology
+</div>
+
+<div align="center">  
 🔭 **Currently** - Doing an internship at PT. Samudera Biru Digital  
 💡 **Focus** - Building web applications and exploring full-stack development  
-
 </div>
+
 ---
 
 ## 🌐 Connect With Me
