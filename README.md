@@ -45,6 +45,7 @@
 ### Database
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Cloud & Deployment
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
@@ -79,7 +80,7 @@
 
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=kotechi&theme=dark&hide_border=false"/>
-</div></div>
+</div>
 
 ---
 
@@ -91,7 +92,7 @@
 
 <div align="center">
   
-![Profile Views](https://visitcount.itsvg.in/api?id=kotechi&icon=0&color=0)
+![Profile Views](https://komarev.com/ghpvc/?username=kotechi&label=Profile%20Views&color=0e75b6&style=flat)
 
 **Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate on any exciting projects! 🚀**
 
