@@ -36,6 +36,16 @@ design:   I create UI/visual assets using Adobe Illustrator ✏️
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kotechi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
 ## 🎯 What I Build
 
 <div align="center">
@@ -51,6 +61,24 @@ design:   I create UI/visual assets using Adobe Illustrator ✏️
 ---
 
 ## 💻 Tech Stack
+
+<div align="center">
+
+### 🧩 Skill Icons
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,php,cs,dart&theme=dark)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,vite&theme=dark)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,laravel,flutter,unity&theme=dark)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite,firebase,git,github&theme=dark)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=vercel,nginx,figma,ai,postman,npm&theme=dark)](https://skillicons.dev)
+
+</div>
+
+<br/>
 
 ### ⚙️ Backend & Server
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -114,6 +142,56 @@ design:   I create UI/visual assets using Adobe Illustrator ✏️
 
 ---
 
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kotechi&theme=tokyo-night&hide_border=true&area=true&area_color=a78bfa&color=a78bfa&line=7c3aed&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/kotechi/kotechi/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+<details>
+<summary>⚙️ <b>How to enable the Snake animation</b></summary>
+<br/>
+
+Create `.github/workflows/snake.yml` in your profile repo:
+
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: kotechi
+          outputs: dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
+
+---
+
 ## 🔭 Future Interests
 
 ```
@@ -124,6 +202,16 @@ design:   I create UI/visual assets using Adobe Illustrator ✏️
 🧠  Systems Programming (Rust / Go)
 🕹️  Multiplayer Game Networking
 ```
+
+---
+
+## 💬 Dev Quote of the Day
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
 
 ---
 
