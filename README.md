@@ -189,7 +189,7 @@ design:   I create UI/visual assets using Adobe Illustrator ✏️
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/@kotechi.ku-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kotechi.ku)
+[![Instagram](https://img.shields.io/badge/@kotechi.ku-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aditya.ftr)
 [![Email](https://img.shields.io/badge/aditiya53op@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditiya53op@gmail.com)
 [![GitHub](https://img.shields.io/badge/kotechi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kotechi)
 
