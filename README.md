@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aditiya&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Backend%20·%20Web%20·%20Game%20·%20App%20Developer&descAlignY=58&descSize=18&descColor=a78bfa&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Aditiya%20Fathurrahman&fontSize=52&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=Backend%20·%20Web%20·%20Game%20·%20App%20Developer&descAlignY=58&descSize=18&descColor=a78bfa&animation=fadeIn&fontFamily=Raleway" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%F0%9F%92%BB;Backend+Engineer+%E2%9A%99%EF%B8%8F;Game+Developer+%F0%9F%8E%AE;Mobile+App+Developer+%F0%9F%93%B1;Always+Learning+New+Things+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=560&lines=Full-Stack+Developer+%F0%9F%92%BB;Backend+Engineer+%E2%9A%99%EF%B8%8F;Game+Developer+%F0%9F%8E%AE;Mobile+App+Developer+%F0%9F%93%B1;Always+Learning+New+Things+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,7 +15,7 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name:     Aditiya
+name:     Aditiya Fathurrahman
 location: Indonesia 🇮🇩
 status:   Intern @ PT. Samudera Biru Digital
 
@@ -30,33 +30,23 @@ currently_learning:
   - Cloud Infrastructure
   - Advanced Game Mechanics
 
-fun_fact: I use Aseprite to make pixel art for my games 🎨
+fun_fact: Sometimes I train myself to make games in Roblox Studio & Unity 🎮
+design:   I create UI/visual assets using Adobe Illustrator ✏️
 ```
 
 ---
 
 ## 🎯 What I Build
 
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/⚙️-Backend_Dev-0f0c29?style=for-the-badge&labelColor=302b63"/>
-      <br/><sub>APIs · Servers · Databases · Auth Systems</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/🌐-Web_Dev-0f0c29?style=for-the-badge&labelColor=302b63"/>
-      <br/><sub>React · Laravel · Full-Stack Apps</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/🎮-Game_Dev-0f0c29?style=for-the-badge&labelColor=302b63"/>
-      <br/><sub>Unity · C# · 2D/3D Games · Pixel Art</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/📱-App_Dev-0f0c29?style=for-the-badge&labelColor=302b63"/>
-      <br/><sub>Flutter · Dart · Cross-Platform</sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+| ⚙️ Backend Dev | 🌐 Web Dev | 🎮 Game Dev | 📱 App Dev |
+|:-:|:-:|:-:|:-:|
+| APIs · REST · Auth | React · Laravel | Unity · Roblox Studio | Flutter · Dart |
+| Node.js · Express | Full-Stack Apps | C# · 2D / 3D | Cross-Platform |
+| SQL · Databases | TailwindCSS · Vite | Game Mechanics | Mobile UI/UX |
+
+</div>
 
 ---
 
@@ -80,8 +70,12 @@ fun_fact: I use Aseprite to make pixel art for my games 🎨
 
 ### 🎮 Game Development
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-00A2FF?style=flat-square&logo=roblox&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=flat-square&logo=aseprite&logoColor=white)
+
+### 🎨 Design & Creative
+![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ### 📱 Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
@@ -103,8 +97,6 @@ fun_fact: I use Aseprite to make pixel art for my games 🎨
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 
 ---
