@@ -160,36 +160,6 @@ design:   I create UI/visual assets using Adobe Illustrator ✏️
 
 </div>
 
-<details>
-<summary>⚙️ <b>How to enable the Snake animation</b></summary>
-<br/>
-
-Create `.github/workflows/snake.yml` in your profile repo:
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: kotechi
-          outputs: dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
-
 ---
 
 ## 🔭 Future Interests
